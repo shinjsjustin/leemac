@@ -1,0 +1,13 @@
+# Node.js
+/node_modules
+/client/node_modules
+/server/node_modules
+
+# React
+/client/build
+
+# Environment variables
+.env
+
+# Logs
+*.log
